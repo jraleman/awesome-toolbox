@@ -1,0 +1,3 @@
+[submodule "react-native-cheat-sheet"]
+    path = react-native-cheat-sheet
+    url = https://github.com/jraleman/react-native-cheat-sheet
