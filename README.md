@@ -10,6 +10,12 @@ git clone --recursive https://github.com/jraleman/toolbox
 
 To download all the modules from this repository.
 
+## Misc
+
+### Gif
+
+- [ezgif](https://ezgif.com/)
+
 ## Libraries / Frameworks
 
 ### React Native
