@@ -18,6 +18,12 @@ To download all the modules from this repository.
 
 ## Libraries / Frameworks
 
+### React
+
+#### Repositories
+
+- [html-to-react-components](https://github.com/jraleman/html-to-react-components)
+
 ### React Native
 
 #### Cheat Sheets
