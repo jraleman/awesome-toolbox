@@ -1,7 +1,11 @@
 [submodule "react-native-cheat-sheet"]
-    path = react-native-cheat-sheet
-    url = https://github.com/jraleman/react-native-cheat-sheet
+  path = react-native-cheat-sheet
+  url = https://github.com/jraleman/react-native-cheat-sheet
 
 [submodule "html-to-react-components"]
-    path = html-to-react-components
-    url = https://github.com/jraleman/html-to-react-components
+  path = html-to-react-components
+  url = https://github.com/jraleman/html-to-react-components
+
+[submodule "reactotron"]
+  path = reactotron
+  url = https://github.com/jraleman/reactotron
