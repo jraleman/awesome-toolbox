@@ -16,6 +16,10 @@ To download all the modules from this repository.
 - [ezgif](https://ezgif.com/)
 - [awesome-readme](https://github.com/matiassingers/awesome-readme)
 
+## Electron
+
+- [electron-devtools-installer](https://github.com/jraleman/electron-devtools-installer)
+
 ## Docker
 
 ### Repositories
